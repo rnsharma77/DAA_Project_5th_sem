@@ -93,9 +93,7 @@ Font: Inter (Google Fonts)
 
 Rudra Narayan Sharma
 💼 BE-CSE | Front-End Developer & Tech Enthusiast
-📧 your-email@example.com
-
-🌐 your-portfolio-link (optional)
+📧 your-rudranarayansharma986@gmail.com
 
 “Code. Visualize. Learn.”
 
